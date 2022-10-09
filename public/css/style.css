@@ -1,0 +1,25 @@
+.bg-yellow { background-color: #B68F02; }
+
+.bg-ydark {
+    background-color: #c39434 ;
+}
+
+.pad-body {
+    background-color: #B68F02;
+}
+
+.title-text {
+    color: #937333;
+    text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
+    font-size: 17px;
+}
+.knowusbetterlink:link  {
+    text-decoration: none;
+}
+
+.title-text-social {
+    color: #937333;
+    text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
+    font-size: 18px;
+}
+
